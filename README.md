@@ -8,5 +8,19 @@
   <br>
 </h1>
 
-<h2 class="wp-block-heading alignwide"><span class="kn-toc-section" id="Usage" kn-toc-data-id="#Usage"></span>Usage:<span class="kn-toc-section-end"></span></h2>
-<h2 class="wp-block-heading alignwide"><span class="kn-toc-section" id="LastUpdate" kn-toc-data-id="#LastUpdate"></span>LastUpdate:<span class="kn-toc-section-end"></span></h2>
+<p align="center">
+       THIS is an open-source script used for QuantumultX, created by k-iilness, written during free time.
+       This script aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds. It is under the MIT license. <br />
+
+</p>
+
+
+<br>
+
+## Building
+
+These builds are compiled automatically for each commit on the master branch. My automated builds **may be unstable or completely broken.**
+
+<br>
+
+## Last Update
