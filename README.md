@@ -8,5 +8,5 @@
   <br>
 </h1>
 
-<h2 class="wp-block-heading alignwide"><span class="ez-toc-section" id="%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" ez-toc-data-id="#Usage"></span>Usage:<span class="ez-toc-section-end"></span></h2>
-<h2 class="wp-block-heading alignwide"><span class="ez-toc-section" id="%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0" ez-toc-data-id="#LastUpdate"></span>LastUpdate:<span class="ez-toc-section-end"></span></h2>
+<h2 class="wp-block-heading alignwide"><span class="kn-toc-section" id="Usage" kn-toc-data-id="#Usage"></span>Usage:<span class="kn-toc-section-end"></span></h2>
+<h2 class="wp-block-heading alignwide"><span class="kn-toc-section" id="LastUpdate" kn-toc-data-id="#LastUpdate"></span>LastUpdate:<span class="kn-toc-section-end"></span></h2>
